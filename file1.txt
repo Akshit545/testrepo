@@ -1,1 +1,1 @@
-file1-master branch
+file1-conflict resolved
